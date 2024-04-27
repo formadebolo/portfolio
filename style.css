@@ -44,7 +44,7 @@ header {
 
 #cat {
     border-radius: 15px;
-    height: 500px;
+    height: 400px;
     margin-left: 65%;
     box-shadow: -4px 4px 85px -21px #9440a5;
     -webkit-box-shadow: -4px 4px 85px -21px #9440a5;
@@ -74,7 +74,7 @@ h2 {
 }
 
 .project {
-    width: 500px;
+    width: 400px;
     margin-bottom: 20px;
     border: 1px solid #4c1579;
     padding: 10px;
